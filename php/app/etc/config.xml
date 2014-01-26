@@ -142,8 +142,8 @@
         </system>
         <general>
             <locale>
-                <code>en_US</code>
-                <timezone>America/Los_Angeles</timezone>
+                <code>fr_BE</code>
+                <timezone>Europe/Brussels</timezone>
             </locale>
         </general>
     </default>
